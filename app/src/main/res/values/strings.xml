@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Work It With Me</string>
+    <string name="tutorial_title_1">Welcome to WIWM!</string>
+    <string name="tutorial_message_1">WIWM stands for Work It With Me. WIWM allows individuals from across the globe to connect to one another and learn together. Should you wish to engage in this marvelous community and possibly help someone out, just swipe left.</string>
+    <string name="go_to_test_button">Proceed to Test</string>
+    <string name="alg2_test_brief">This test will consist of 20 randomly generated problems to test your knowledge of Algebra II. \nAre you ready to begin?</string>
+</resources>
