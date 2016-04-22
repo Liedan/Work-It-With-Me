@@ -14,8 +14,6 @@ public class tutorial extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
-    //This is a test
-
     public void goToTest(View v) {
         setContentView(R.layout.test_selection);
     }
